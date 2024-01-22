@@ -14,3 +14,5 @@ This notes including the issues involved in the design and implementation of mod
 - [Linux Kernel Doc](https://docs.kernel.org/index.html)
 - [Introduction to Operating Systems](https://os.eecs.umich.edu/)
 - [joshrosso Notes](https://octetz.com/docs/)
+- [C Coverage](https://websites.umich.edu/~eecs381/lecture/C_Coverage.pdf)
+- [GDB Manual](https://ftp.gnu.org/old-gnu/Manuals/gdb/html_mono/gdb.html)
