@@ -16,3 +16,6 @@ This notes including the issues involved in the design and implementation of mod
 - [joshrosso Notes](https://octetz.com/docs/)
 - [C Coverage](https://websites.umich.edu/~eecs381/lecture/C_Coverage.pdf)
 - [GDB Manual](https://ftp.gnu.org/old-gnu/Manuals/gdb/html_mono/gdb.html)
+- [The Linux Kernel documentation](https://www.kernel.org/doc/html/v4.14/index.html#)
+- [The Linux kernel user’s and administrator’s guide](https://www.kernel.org/doc/html/v4.14/admin-guide/index.html)
+- [The kernel’s command-line parameters](https://www.kernel.org/doc/html/v4.14/admin-guide/kernel-parameters.html)
