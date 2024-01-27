@@ -10,6 +10,8 @@ This notes including the issues involved in the design and implementation of mod
 - Networking and distributed systems
 - Distributed systems; case studies
 
+**Must read**:
+-[Linux Fundamentals]（https://academy.hackthebox.com/module/18/section/94）
 **Resources**:
 - [Linux Kernel Doc](https://docs.kernel.org/index.html)
 - [Introduction to Operating Systems](https://os.eecs.umich.edu/)
