@@ -3,6 +3,8 @@
         "__mutex_base": "c",
         "mutex": "c",
         "__threading_support": "c",
-        "atomic": "c"
+        "atomic": "c",
+        "__config": "cpp",
+        "__nullptr": "cpp"
     }
 }
