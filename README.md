@@ -3,8 +3,8 @@ My Operating Systems Notes
 
 This notes including the issues involved in the design and implementation of modern operating systems. The concepts in this course are applicable to many operating systems and hardware platforms. We will discuss examples that are drawn from historically significant and modern operating systems including MULTICS, Unix, and Windows. We will cover topics such as processes and threads, concurrency and synchronization, CPU scheduling, virtual memory management, communication in distributed systems, secondary-storage management, and file systems.
 ![Linux Overview](pics/Linux_overview.png)  
-![Linux Kernel](pics/OS overview-1.png)
-![Linux Kernel](pics/OS overview-2.png)
+![Linux Kernel](pics/OS_overview-1.png)
+![Linux Kernel](pics/OS_overview-2.png)
 ## Baisic Sections
 - Threads and concurrency
 - Address spaces
